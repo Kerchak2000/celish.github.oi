@@ -1,0 +1,58 @@
+body{
+	color: #6f00d2;
+}
+.encabezado{
+	position: static;
+	left: 1px;
+	top: 1px;
+	font-size: 30px;
+	height:100px ;
+	color: white;
+}
+.final{
+	display: inline-block;
+	background-color: #0072e3;
+	height: 100px;
+	width: 1250px;
+	color: white;
+}
+h1{
+	font-size: 30px;
+}
+.inicio{
+	font-size: 40px;
+}
+.contener{
+
+}
+.menu{
+	display: inline-block;
+	background-color: #0072e3;
+	height: 100px;
+	width: 1250px;
+	margin: 0;
+}
+.links{
+	font-size: 25px;
+}
+a:link{
+	color: white;
+}
+h2{
+	font-size: 25px;
+}
+.text{
+	font-size: 20px;
+}
+th{
+	font-size: 25px;
+}
+td{
+	font-size: 20px;
+}
+.caja{
+	color: white;
+	margin: 20px 10px 20px 10px;
+	padding: 2px;
+	background-color: blue;
+}
